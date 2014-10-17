@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lcp:home|Door43 (lcp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lcp|d43-lcp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lcp/archive/master.zip|d43-lcp.zip]]
+
+**Recent Changes**
+{{changes>ns = lcp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lcp|Ethnologue data]]
+
